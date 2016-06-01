@@ -2,7 +2,7 @@
 layout: post
 title:  "策划新人前来报道"
 date:   2016-06-01 10:13:49
-categories: 小说 译文
+categories: 策划
 tags: 策划编辑日记
 ---
 策划新人前来报道
